@@ -14,4 +14,4 @@ I learned how to run javascript code in HTML strings, and turn the output into a
 
 ## Image of Project:
 
-![calculator image](horoscope.png)
+![dadjokes image](dadjokesapiimg.png)

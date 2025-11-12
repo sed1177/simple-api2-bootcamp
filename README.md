@@ -4,7 +4,7 @@ This project fetches a joke from a jokes API and display that joke on the UI!
 
 ## How It's Made:
 
-**Tech used:**: HTML, CSS, and JavaScript
+**Tech used:** HTML, CSS, and JavaScript
 
 I used html for the markup, css for the styling, andI used Javascript for the logic of this project.
 
